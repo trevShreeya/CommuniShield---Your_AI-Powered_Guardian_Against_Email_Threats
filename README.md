@@ -73,14 +73,23 @@ Follow these steps to set up the project on your local machine:
 
 ## Project Structure
 CommuniShield/
+
 │
+
 ├── .git/ # Git version control files
+
 ├── .ipynb_checkpoints/ # Jupyter Notebook checkpoints
+
 ├── app.py # Streamlit app script
+
 ├── model.pkl # Trained machine learning model
+
 ├── spam.csv # Dataset of emails for training/testing
+
 ├── vectorizer.pkl # Text vectorization model
+
 ├── Untitled.ipynb # Jupyter Notebook with project development
+
 └── README.md # Project documentation
 
 ## Future Development
